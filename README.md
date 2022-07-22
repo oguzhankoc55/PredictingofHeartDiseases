@@ -1,4 +1,4 @@
-# Predicting of Heart Diseases
+# Predicting of Heart Diseases 
 
 Bu projede Makine öğrenmesi modellerinden olan logis tic regrasyon Kalp Hastalıklarının varlığını tahmin edilmiştir. 
 Logistic Regresyonun Matematiği ve Python da uygulanması:
